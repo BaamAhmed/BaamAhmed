@@ -1,5 +1,5 @@
 # Hey There 👋
-I'm Bassam Ahmed (aka BaamAhmed), a Math student at the University of Waterloo planning to major in Data Science/Statistics and absolutely fascinated with any and every thing SWE and AI/ML.
+I'm Bassam Ahmed (aka BaamAhmed), a CS student at the University of Waterloo and absolutely fascinated with any and every thing AI/ML.
 
 Also, I just made a new portfolio website, [check it out!](http://www.baamahmed.me)
 
